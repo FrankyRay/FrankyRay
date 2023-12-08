@@ -3,11 +3,11 @@
 I'm Franky Ray (he/him), from Indonesia. Currently Undergraduate Computer Science at Universitas Indonesia. My hobby is create a never-finished project.
 
 ### Programming Languages
-![Python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg) 
+<!-- ![Python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg) 
 ![Javascript](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg) 
 ![Typescript](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg) 
-![Bash](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg)
-<!-- ![My Skill](https://skillicons.dev/icons?i=python,js,html,css,wasm&theme=dark) -->
+![Bash](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg) -->
+![My Skill](https://skillicons.dev/icons?i=python,html,css,js,ts&theme=dark)
 
 <!--
 **FrankyRay/FrankyRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
