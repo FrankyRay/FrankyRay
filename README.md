@@ -2,6 +2,8 @@
 
 I'm Franky Ray (he/him), from Indonesia. Currently Undergraduate Computer Science at Universitas Indonesia. My hobby is create a never-finished project.
 
+Website: [frays.dev](https://www.frays.dev/)
+
 ### Programming Languages
 <!-- ![Python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg) 
 ![Javascript](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg) 
